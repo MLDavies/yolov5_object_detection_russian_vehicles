@@ -8,5 +8,5 @@ Here, I implement a deep learning model that is able to, once trained, take in i
  
 **Note: View the ipynb here:**
 
-https://nbviewer.org/github/MLDavies/russian-military-vehicles-annotated/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb
+https://nbviewer.org/github/MLDavies/yolov5_object_detection_russian_vehicles/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb
 
