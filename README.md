@@ -10,5 +10,7 @@ Leveraging a deep learning model to predict potential vehicle types (at some pro
 
 https://nbviewer.org/github/MLDavies/yolov5_object_detection_russian_vehicles/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb
 
+**[Open directly in Google Colab here](https://colab.research.google.com/github/MLDavies/yolov5_object_detection_russian_vehicles/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb)**
+
 The notebook clones the data from:  https://github.com/MLDavies/russian-military-vehicles-annotated
 
