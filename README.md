@@ -6,11 +6,9 @@ Huge thanks to:
  
 Leveraging a deep learning model to predict potential vehicle types (at some probability) from the deluge of social media posts can dramatically reduce the subsequent workload required for human curation and analysis. Here, I implement a deep learning model (YOLOv5) that is able to, once trained, take in images or video (or URL) locate Russian military vehicles within an image/video and classify the vehicle type. 
  
-**Note: View the ipynb here:**
-
-https://nbviewer.org/github/MLDavies/yolov5_object_detection_russian_vehicles/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb
+**[Note: View the ipynb here](https://nbviewer.org/github/MLDavies/yolov5_object_detection_russian_vehicles/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb)**
 
 **[Open directly in Google Colab here](https://colab.research.google.com/github/MLDavies/yolov5_object_detection_russian_vehicles/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb)**
 
-The notebook clones the data from:  https://github.com/MLDavies/russian-military-vehicles-annotated
+**[The notebook clones the data from the repo here](https://github.com/MLDavies/russian-military-vehicles-annotated)
 
