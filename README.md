@@ -1,4 +1,4 @@
-# YOLOv5 Object Detection Russian Vehicles
+# YOLOv5 Object Detection with Russian Military Vehicles
 
 Huge thanks to:
  - Glen Jocher (https://docs.ultralytics.com/) for developing such a sophisticated and user friendly architecture and model...not to mention his (or his team's) active responses on the forums.  
@@ -9,4 +9,6 @@ Leveraging a deep learning model to predict potential vehicle types (at some pro
 **Note: View the ipynb here:**
 
 https://nbviewer.org/github/MLDavies/yolov5_object_detection_russian_vehicles/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb
+
+The notebook clones the data from:  https://github.com/MLDavies/russian-military-vehicles-annotated
 
